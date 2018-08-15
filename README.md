@@ -45,7 +45,11 @@ function doGet(e) {
 [![N|Solid](https://i.stack.imgur.com/VANXa.png)]()
 
 ### 3) Call code from Java Class
-Change the SCRIPT URL and run it on your machine.
+- Copy Translate.java into your C drive(on windows) with sample-input.txt and sample-output.txt
+- Change the SCRIPT URL in Translate.java
+- Change content of sample-input.txt (if you want)
+- Compile java code using "javac Translate.java" and Run it using "java Translate".
+
 
 
 License

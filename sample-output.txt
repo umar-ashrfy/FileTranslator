@@ -1,0 +1,11 @@
+#: 
+msgid "Enter the following address to the "Domains" field in a individual line"
+msgstr "個々の行の[ドメイン]フィールドに次のアドレスを入力します"
+
+#: 
+msgid "Copy & paste the site and secret keys"
+msgstr "サイトと秘密鍵をコピー＆ペーストする"
+
+#: 
+msgid "Active Theme"
+msgstr "アクティブなテーマ"

@@ -1,0 +1,11 @@
+#: 
+msgid "Enter the following address to the "Domains" field in a individual line"
+msgstr "Enter the following address to the "Domains" field in a individual line"
+
+#: 
+msgid "Copy & paste the site and secret keys"
+msgstr "Copy & paste the site and secret keys"
+
+#: 
+msgid "Active Theme"
+msgstr "Active Theme"
